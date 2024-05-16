@@ -2,6 +2,7 @@
 .headings{
   text-align: center;
 }
+
 ul{
   list-style: none;
 }
@@ -17,4 +18,14 @@ body{
 
 player_two{
   background-color: rgb(255, 255, 255); padding: 1px; border-radius: 1px;
+}
+
+.list_cont{
+  border: 2px solid black;
+  border-radius: 4px;
+  background-color: white;
+  line-height: 22px;
+}
+.thre{
+  text-align: center;
 }
