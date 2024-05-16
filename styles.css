@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+.headings{
+  text-align: center;
+}
+ul{
+  list-style: none;
+}
+ul>li>a{
+  text-decoration: none;
+}
+body{
+  background-color: rgb(204, 204, 204)
+}
+.player_one{
+  background-color: rgb(255, 255, 255); padding: 1px; border-radius: 1px;
+}
+
+player_two{
+  background-color: rgb(255, 255, 255); padding: 1px; border-radius: 1px;
+}
